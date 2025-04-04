@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1743673085229" clover="3.2.0">
+  <project timestamp="1743673085229" name="All files">
+    <metrics statements="19" coveredstatements="11" conditionals="4" coveredconditionals="0" methods="9" coveredmethods="4" elements="32" coveredelements="15" complexity="0" loc="19" ncloc="19" packages="1" files="2" classes="2"/>
+    <file name="hash-table.js" path="/Users/andrzej.stachlewski/Programming/edu/ts/design-hash-map/hash-table.js">
+      <metrics statements="16" coveredstatements="8" conditionals="4" coveredconditionals="0" methods="8" coveredmethods="3"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="29" count="0" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="61" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="62" count="0" type="stmt"/>
+      <line num="71" count="2" type="stmt"/>
+      <line num="75" count="1" type="stmt"/>
+    </file>
+    <file name="node.js" path="/Users/andrzej.stachlewski/Programming/edu/ts/design-hash-map/node.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
