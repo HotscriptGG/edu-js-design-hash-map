@@ -84,8 +84,6 @@ class HashTable {
    * @return {void}
    */
   resize() {
-    // TODO: make resizing use prime numbers
-
     this.capacity *= 2;
 
     let resizedTable = new Array(this.capacity).fill(null);
